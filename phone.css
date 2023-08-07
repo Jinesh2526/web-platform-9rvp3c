@@ -1,0 +1,50 @@
+/* logo */
+#logo {
+  flex-direction: column;
+}
+#logo ul li a{
+  font-size: 1rem;
+  padding: 0px 7px;
+
+  padding-bottom: 8px;
+}
+/* section */
+#mainbody {
+  height: 340px;
+  padding: 3px 90px;
+}
+#mainbody::before {
+  height: 480px;
+}
+
+#mainbody p {
+  font-size: 8px;
+}
+.Watch{
+  font-size: 13px;
+  padding: 4px 8px;
+}
+/* class="Serives-box */
+#Services {
+  flex-direction: column;
+}
+#Services.box{
+ 
+  padding: 15px;
+  margin: 3px 6px;
+ 
+ 
+}
+
+
+#collabs {
+  flex-wrap: wrap;
+}
+
+#collabs img{
+  width: 66px;
+  height: auto;
+}
+.Heading {
+  font-size: 20px;
+}
